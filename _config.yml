@@ -4,13 +4,13 @@ url: "https://cardsharksbook.com"
 baseurl: ""
 
 navigation:
-  - label: About the book
+  - label: About the Book
     url: /index.html
     key: book
-  - label: About the author
+  - label: About the Author
     url: /author.html
     key: author
-  - label: Contact info
+  - label: Contact Info
     url: /contact.html
     key: contact
 

@@ -4,7 +4,7 @@ A plain HTML and CSS website. No JavaScript, dependencies, or build step.
 
 ## Edit
 - `index.html`: book description and deck details
-- `author.html`: author page (biography pending)
+- `author.html`: author page with the biography from the book
 - `contact.html`: contact page (public email pending)
 - `styles.css`: shared layout and colors
 - `assets/`: book cover and card back

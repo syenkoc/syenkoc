@@ -1,0 +1,18 @@
+title: Card Sharks
+description: "Card Sharks: Math Games for Kids by Allison Cohen. Discover playful math games using a simple deck of playing cards."
+url: "https://cardsharksbook.com"
+baseurl: ""
+
+navigation:
+  - label: About the book
+    url: /index.html
+    key: book
+  - label: About the author
+    url: /author.html
+    key: author
+  - label: Contact info
+    url: /contact.html
+    key: contact
+
+exclude:
+  - README.md

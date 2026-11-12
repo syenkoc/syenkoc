@@ -394,3 +394,25 @@ footer {
   }
 
 }
+
+.author-bio {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  align-items: start;
+  gap: 32px;
+}
+
+.author-portrait {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+
+@media (max-width: 480px) {
+  .author-bio {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
